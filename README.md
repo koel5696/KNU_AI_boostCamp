@@ -1,4 +1,4 @@
-# KNU-AI_boostCamp
+# 랜덤 로또
 
 개인 연습용 웹사이트입니다. 로또 번호 생성기, 고정 번호 생성, 최근 당첨번호 조회, 한강 수온 조회, Firebase Firestore 기반 방명록 기능을 포함합니다.
 
@@ -23,7 +23,7 @@ Firebase Hosting에 배포할 때는 아래 명령을 실행합니다.
 npm run deploy
 ```
 
-배포 URL은 `https://random-lottonumber.web.app`입니다.
+배포 URL은 `https://minsu-profile-practice.web.app`입니다.
 
 ## 환경 변수
 
