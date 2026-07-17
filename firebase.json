@@ -3,6 +3,7 @@
     "rules": "firestore.rules"
   },
   "hosting": {
+    "site": "random-lottonumber",
     "public": "dist",
     "ignore": [
       "firebase.json",

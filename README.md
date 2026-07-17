@@ -23,6 +23,8 @@ Firebase Hosting에 배포할 때는 아래 명령을 실행합니다.
 npm run deploy
 ```
 
+배포 URL은 `https://random-lottonumber.web.app`입니다.
+
 ## 환경 변수
 
 `.env.example`을 복사해 `.env`를 만들고 Firebase Web App 설정 값을 채워 넣습니다. `.env`는 커밋하지 않습니다.
