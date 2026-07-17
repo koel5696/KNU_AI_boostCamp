@@ -1,0 +1,18 @@
+{
+  "name": "knu-ai-boostcamp",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "deploy": "firebase deploy"
+  },
+  "dependencies": {
+    "firebase": "^10.14.1"
+  },
+  "devDependencies": {
+    "vite": "^5.4.21"
+  }
+}
